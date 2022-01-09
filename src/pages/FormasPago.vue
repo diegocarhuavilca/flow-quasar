@@ -358,21 +358,21 @@
 
 
 
-        <q-card-section>
-          <h5  class="q-my-none q-mb-md text-weight-bold text-primary">Interbank</h5>
-          <div class="flex row justify-center">
-            <div class="col text-center"><q-img  src="~assets/brands/interbank.png" width="150px"/></div>
-            <div class="col  flex column justify-center text-weight-bold">
-              <p>  Cuenta Corriente S/.: 200-3001485600 </p>
-              <p>             Cuenta Interbancaria: 003 200 00300148560036
+<!--        <q-card-section>-->
+<!--          <h5  class="q-my-none q-mb-md text-weight-bold text-primary">Interbank</h5>-->
+<!--          <div class="flex row justify-center">-->
+<!--            <div class="col text-center"><q-img  src="~assets/brands/interbank.png" width="150px"/></div>-->
+<!--            <div class="col  flex column justify-center text-weight-bold">-->
+<!--              <p>  Cuenta Corriente S/.: 200-3001485600 </p>-->
+<!--              <p>             Cuenta Interbancaria: 003 200 00300148560036-->
 
-              </p>
+<!--              </p>-->
 
-            </div>
-          </div>
+<!--            </div>-->
+<!--          </div>-->
 
 
-        </q-card-section>
+<!--        </q-card-section>-->
 
 
 
