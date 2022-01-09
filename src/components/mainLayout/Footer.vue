@@ -64,9 +64,9 @@
               >FORMAS DE PAGO</q-item-section
               >
             </q-item>
-            <q-item clickable class="hvr-forward" @click='this.$router.push({name:"Abonados"})'>
+            <q-item clickable class="hvr-forward" @click='this.$router.push({name:"Pago"})'>
               <q-item-section
-              >Informacion de Abonados y Usuarios</q-item-section
+              >Formas de pago</q-item-section
               >
             </q-item>
           </q-list>

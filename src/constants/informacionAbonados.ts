@@ -1,7 +1,7 @@
 export const contratosRequisitos = [
   {
-    titulo: 'CONTRATO DE ABONADOS FLOW (10.08.2021)',
-    link: 'https://www2.flow.pe/uploads/CONTRATO_DE_ABONADO_CONCESIONARIO_a22fae8c37.pdf',
+    titulo: 'CONTRATO DE ABONADOS FLOW',
+    link: 'https://www2.flow.pe/uploads/CONTRATO_INTERNET_TELFONIA_FIJA_FLOW_7445384cce.pdf',
   },
   {
     titulo: 'FORMULARIO DE REQUERIMIENTO INTERNET FLOW (10.08.2021)',

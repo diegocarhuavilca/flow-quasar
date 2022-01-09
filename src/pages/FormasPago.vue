@@ -156,7 +156,7 @@
                     :name="1"
                     title="Ingresar al app"
                     icon="settings"
-                    :done="step > 1"
+                    :done="step2 > 1"
                   >
                     <q-img
                       src="~assets/pagos/bbva/bbva_1.jpg"
@@ -170,7 +170,7 @@
                     :name="2"
                     title="Pagar servicios"
                     icon="settings"
-                    :done="step > 2"
+                    :done="step2 > 2"
                   >
                     <q-img
                       src="~assets/pagos/bbva/bbva_2.jpg"
@@ -184,7 +184,7 @@
                     :name="3"
                     title="Agredar servicios a pagar"
                     icon="settings"
-                    :done="step > 2"
+                    :done="step2 > 3"
                   >
                     <q-img
                       src="~assets/pagos/bbva/bbva_3.jpg"
@@ -199,7 +199,7 @@
                     :name="4"
                     title="Buscar 'Flow'"
                     icon="settings"
-                    :done="step > 4"
+                    :done="step2 > 4"
                   >
                     <q-img
                       src="~assets/pagos/bbva/bbva_4.jpg"
@@ -214,7 +214,7 @@
                     :name="5"
                     title="Ingresar DNI"
                     icon="settings"
-                    :done="step > 5"
+                    :done="step2 > 5"
                   >
                     <q-img
                       src="~assets/pagos/bbva/bbva_5.jpg"
@@ -228,7 +228,7 @@
                     :name="6"
                     title="Validar Datos"
                     icon="settings"
-                    :done="step > 6"
+                    :done="step2 > 6"
                   >
                     <q-img
                       src="~assets/pagos/bbva/bbva_6.jpg"
@@ -242,7 +242,7 @@
                     :name="7"
                     title="Elegir los recibos"
                     icon="settings"
-                    :done="step > 7"
+                    :done="step2 > 7"
                   >
                     <q-img
                       src="~assets/pagos/bbva/bbva_7.jpg"
